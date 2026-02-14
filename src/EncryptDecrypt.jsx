@@ -4,7 +4,7 @@ import React, { useState } from "react";
  * MUST match backend PAYLOAD_ENC_KEY
  * Frontend will SHA-256 hash this key to match backend
  */
-const SECRET_KEY = "9f1c3e5a7b2d4f8e6c0a1b9d5e7f2a4c";
+const SECRET_KEY = "f3a9b2c8e4d1a7f9b8c6e3d2a1f4c7b9d8e6f5a3b1c2d4e6f8a9b0c1d2e3f4";
 
 /**
  * Convert hex string to Uint8Array (fallback)
